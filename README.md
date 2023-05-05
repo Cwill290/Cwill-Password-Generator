@@ -7,6 +7,8 @@ different aspects of the code and put them all together.This project was a lot o
 
 ## Usage
 
+https://cwill290.github.io/Cwill-Password-Generator/
+
 Follow the prompts on the page :
 
 first:
