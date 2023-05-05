@@ -8,6 +8,8 @@ different aspects of the code and put them all together.This project was a lot o
 ## Usage
 
 Follow the prompts on the page :
+
+first:
 input your password length
 
 then:
