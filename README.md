@@ -16,6 +16,8 @@ choose "okay" to include or "cancel" to exclude different character when prompte
 last:
 push the generate password button to view your random password thats generated for you
 
+![Pass-Gen](https://user-images.githubusercontent.com/130315092/236355255-ce9508f6-97de-44a5-b067-d43fc71e1866.png)
+
 ## Credits
 
 https://www.youtube.com/watch?v=duNmhKgtcsI
